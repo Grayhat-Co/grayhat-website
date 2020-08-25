@@ -3423,13 +3423,20 @@ section.lazy-placeholder:after {
 .cid-s6uldyGZI9 .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-s8DZUq75Mv {
-  padding-top: 120px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
+.cid-s8E37YRcxX {
+  padding-top: 135px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/online-courts-hackathon-team-777x440.jpeg");
 }
-.cid-s8DZUq75Mv .mbr-section-subtitle {
+.cid-s8E37YRcxX P {
   color: #767676;
+}
+.cid-s8E37YRcxX H1 {
+  color: #ffffff;
+}
+.cid-s8E37YRcxX .mbr-text,
+.cid-s8E37YRcxX .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-s8E01mpydb {
   padding-top: 0px;
@@ -3470,6 +3477,9 @@ section.lazy-placeholder:after {
     text-align: center;
     margin: 1rem 0 0 0;
   }
+}
+.cid-s8E01mpydb .cost {
+  color: #000000;
 }
 .cid-s6uloFWdCZ {
   padding-top: 30px;
